@@ -13,8 +13,7 @@ Email Me 👉 ✉️ **[m63676458@gmail.com](mailto:m63676458@gmail.com)** For C
 * 😄 **Pronouns:** Muhammad Taha
 * ⚡ **Fun fact:** I Love Coding and Technology 💻🚀
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadTaha1285&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhummad-taha-7798b8381/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m63676458@gmail.com) 
