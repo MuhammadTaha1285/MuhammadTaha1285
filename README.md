@@ -1,160 +1,24 @@
-<!-- ===================================================== -->
-<!--              MUHAMMAD TAHA GITHUB PROFILE             -->
-<!-- ===================================================== -->
 
-<!-- ====================== BANNER ======================= -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhummad-taha-7798b8381) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhummad Taha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m63676458@gmail.com) 
 
-<p align="center">
-  <img
-    src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1600&q=90"
-    alt="Mountain Banner"
-    width="100%"
-  />
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MuhammadTaha1285&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MuhammadTaha1285&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadTaha1285&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- ====================== INTRO ======================== -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MuhammadTaha1285&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h1 align="center">
-  👋 Hi there, I'm Muhammad Taha
-</h1>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="center">
-  💻 Full Stack Developer | 🚀 Web Developer | 🇵🇰 Pakistan
-</h3>
-
-<br>
-
-<!-- =================== PROFILE SECTION ================= -->
-
-<table align="center">
-<tr>
-
-<td width="35%" align="center" valign="top">
-
-<img
-  src="https://github.com/MuhammadTaha1285.png"
-  width="200"
-  alt="Muhammad Taha Profile Picture"
-/>
-
-<br><br>
-
-# Muhammad Taha
-
-### Full Stack Developer
-
-🟢 **Available for Work**
-
-<br>
-
-📍 Pakistan
-
-📅 Joined GitHub almost 1 year ago
-
-</td>
-
-<td width="65%" valign="top">
-
-# 👋 Hi there!
-
-## I'm Muhammad Taha
-
-### Full Stack Developer
-
-> **"Create clean code and scalable solutions."**
-
-I am a passionate Full Stack Developer who loves building modern, responsive, and user-friendly web applications.
-
-<br>
-
-### 📞 Contact Information
-
-📧 **Email:** m63676458@gmail.com
-
-📱 **Phone:** 03092119409
-
-💬 **WhatsApp:**  
-<a href="https://wa.link/u5h7gl">Chat with me on WhatsApp</a>
-
-💼 **LinkedIn:**  
-<a href="https://www.linkedin.com/in/muhummad-taha-7798b8381">Connect with Muhammad Taha</a>
-
-</td>
-
-</tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MuhammadTaha1285&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=MuhammadTaha1285&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Profile Dashboard
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-## 📁 17
-
-### Repositories
-
-</td>
-
-<td align="center" width="25%">
-
-## 👤 1
-
-### Follower
-
-</td>
-
-<td align="center" width="25%">
-
-## 🤝 1
-
-### Following
-
-</td>
-
-<td align="center" width="25%">
-
-## 🟢
-
-### Available for Work
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 👨‍💻 About Me
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-I am a passionate **Full Stack Developer** with an interest in creating clean, modern, responsive, and scalable web applications.
-
-I enjoy solving problems and learning new technologies.
-
-javascript
-const developer = {
-    name: "Muhammad Taha",
-    role: "Full Stack Developer",
-    location: "Pakistan",
-    status: "Available for Work",
-
- skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-        "PHP",
-        "Laravel",
-        "MySQL"
-    ],
-
- passion: "Building Web Solutions 🚀"
-};
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
