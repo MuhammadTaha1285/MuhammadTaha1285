@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Muhammad Taha Fully Stack Developer || Web Developer
+# 💫 Hi 👋, I'm Muhammad Taha
 
 **A passionate Full Stack Developer || Web Developer from Pakistan 🇵🇰**
 
