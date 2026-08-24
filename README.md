@@ -1,146 +1,89 @@
-<!-- ==================== BANNER ==================== -->
+<!-- ===================== PROFESSIONAL BANNER ===================== -->
 
 <p align="center">
-  <img
-    src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=90"
-    width="50%"
-    alt="Mountain Developer Banner"
-  />
+  <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1600&q=90"
+       width="100%"
+       alt="Mountain Banner" />
 </p>
 
-<!-- ==================== INTRO ==================== -->
+<br>
 
-<h1 align="center">👋 Hi, I'm Muhammad Taha</h1>
+<!-- ===================== PROFILE HEADER ===================== -->
 
-<h3 align="center">
-🚀 Full Stack Developer | 💻 Web Developer | 🇵🇰 Pakistan
-</h3>
+<table>
+<tr>
 
-<p align="center">
-  <img
-    src="https://github.com/MuhammadTaha1285.png"
-    width="180"
-    alt="Muhammad Taha"
-  />
-</p>
+<td width="30%" align="center">
 
-<p align="center">
+<img src="https://github.com/MuhammadTaha1285.png"
+width="180"
+alt="Muhammad Taha"/>
 
-🟢 <b>Available for Work</b>
+<br><br>
 
-</p>
+# Muhammad Taha
+
+### 💻 Full Stack Developer
+
+🟢 **Available for Work**
+
+</td>
+
+<td width="70%">
+
+# 👋 Hi there, I'm Muhammad Taha
+
+### 🚀 Full Stack Developer | Web Developer
+
+> 💡 **"Create clean code and scalable solutions."**
+
+<br>
+
+📍 **Pakistan**  
+📧 **m63676458@gmail.com**  
+📱 **03092119409**
+
+<br>
+
+<a href="https://wa.link/u5h7gl">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhummad-taha-7798b8381">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Taha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+<!-- ===================== ABOUT + SKILLS ===================== -->
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 👨‍💻 About Me
 
 I am a passionate **Full Stack Developer** who loves building modern, responsive, and scalable web applications.
 
-- 💻 Create clean code and scalable solutions
-- 🇵🇰 Based in Pakistan
-- 🚀 Passionate about Web Development
-- 🌱 Always learning new technologies
-- 💼 Available for work
-- 📅 Joined GitHub almost 1 year ago
-
----
-
-# 📊 GitHub Profile
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadTaha1285&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTaha1285&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTaha1285&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTaha1285&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-# 📦 My GitHub Stats
-
-<p align="center">
-
-| 📁 Repositories | 👥 Followers | 🤝 Following | 💼 Status |
-|:---:|:---:|:---:|:---:|
-| **17+** | **1** | **1** | 🟢 Available for Work |
-
-</p>
-
----
-
-# 🛠️ Skills & Technologies
-
-### 💻 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-
-</p>
-
-### 🧰 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,wordpress" />
-
-</p>
-
-### 📚 Other Skills
-
-<p>
-
-<img src="https://img.shields.io/badge/MS%20Office-Professional-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Advanced-JavaScript-yellow?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/PHPMyAdmin-Database-orange?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge" />
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-```text
-Frontend:
-HTML • CSS • JavaScript • Bootstrap
-
-Backend:
-PHP • Laravel
-
-Database:
-MySQL • PHPMyAdmin
-
-Tools:
-Git • GitHub • WordPress • MS Office
-
-Currently Learning:
-Advanced JavaScript & Laravel
+```javascript
+const developer = {
+    name: "Muhammad Taha",
+    role: "Full Stack Developer",
+    location: "Pakistan",
+    status: "Available for Work",
+    skills: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "Laravel",
+        "MySQL"
+    ]
+};
