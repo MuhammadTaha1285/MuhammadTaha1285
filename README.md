@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=90"
-    width="100%"
+    width="50%"
     alt="Mountain Developer Banner"
   />
 </p>
