@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1600&q=90"
-       width="100%"
+       width="20%"
        alt="Mountain Banner" />
 </p>
 
